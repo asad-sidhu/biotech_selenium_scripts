@@ -1,6 +1,6 @@
-Selenium Automation Framework(with Java)
+# Selenium Automation Framework(with Java)
 
-Author - Asad Sidhu
+- Author - Asad Sidhu
 
 Java, Selenium, TestNG
 
