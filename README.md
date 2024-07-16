@@ -21,3 +21,6 @@
 - Java 19 >
 
 - Export/Import/Read CSV data
+
+<img width="1024"  src="https://github.com/asad-sidhu/biotech_selenium_scripts/blob/main/POM%20framework.png">
+
