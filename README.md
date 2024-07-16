@@ -2,22 +2,22 @@
 
 - Author - Asad Sidhu
 
-Java, Selenium, TestNG
+- Java, Selenium, TestNG
 
-Maven, POM
+- Maven, POM
 
-Thread Local Support → Thread Safety
+- Thread Local Support → Thread Safety
 
-Extent Report
+- Extent Report
 
-Page Object Model
+- Page Object Model
 
-Read the username and password from Config.Properties-
+- Read the username and password from Config.Properties-
 
-TestNG, @Test, Before and After annotations.
+- TestNG, @Test, Before and After annotations.
 
-DB Configurations, API Testing Support
+- DB Configurations, API Testing Support
 
-Java 19 >
+- Java 19 >
 
-Export/Import/Read CSV data
+- Export/Import/Read CSV data
