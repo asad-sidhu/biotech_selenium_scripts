@@ -22,7 +22,7 @@
 
 - Export/Import/Read CSV data
 
-<h6>Page Object Model</h6>
+<h1>Page Object Model</h1>
 
 <img width="1024"  src="https://github.com/asad-sidhu/biotech_selenium_scripts/blob/main/POM%20framework.png">
 
