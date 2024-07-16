@@ -24,3 +24,7 @@
 
 <img width="1024"  src="https://github.com/asad-sidhu/biotech_selenium_scripts/blob/main/POM%20framework.png">
 
+<img width="1024"  src="https://github.com/asad-sidhu/biotech_selenium_scripts/blob/main/Extent%20Reports%201.png">
+
+<img width="1024"  src="https://github.com/asad-sidhu/biotech_selenium_scripts/blob/main/Extent%20Reports%202.png">
+
