@@ -32,3 +32,7 @@
 
 <img width="1024"  src="https://github.com/asad-sidhu/biotech_selenium_scripts/blob/main/Extent%20Reports%202.png">
 
+<h3>TestNG Annotations</h3>
+
+<img width="1024"  src="https://github.com/asad-sidhu/biotech_selenium_scripts/blob/main/TestNG%20Annotations.png">
+
