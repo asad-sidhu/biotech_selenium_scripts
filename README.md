@@ -1,4 +1,4 @@
-# Selenium Automation Framework(with Java)
+# Selenium Automation Framework (with Java)
 
 - Author - Asad Sidhu
 
