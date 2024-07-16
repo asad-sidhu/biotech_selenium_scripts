@@ -34,5 +34,5 @@
 
 <h3>TestNG Annotations</h3>
 
-<img width="1024"  src="https://github.com/asad-sidhu/biotech_selenium_scripts/blob/main/TeNG%20Annotations.png">
+<img width="1024"  src="https://github.com/asad-sidhu/biotech_selenium_scripts/blob/main/TestNG%20Annotations.png">
 
