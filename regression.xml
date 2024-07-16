@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="TestSuite">
+    <test thread-count="10" parallel="classes" name="Regression">
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="Test.BiotechProject01.Reports.SSMLog"/>
+        </classes>
+    </test>
+</suite>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Suite">
+    <test thread-count="10" parallel="classes" name="Test">
+        <classes>
+            <class name="Test.BiotechProject01.DISAPIs.WebApi"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

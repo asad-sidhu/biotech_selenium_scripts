@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Suite">
+  <test thread-count="5" parallel="classes" name="Test">
+    <classes>
+      
+      <class name="Test.BiotechProject01.Administration.UserManagement"/>
+      <class name="Test.BiotechProject01.Administration.OrganizationManagement"/>
+      <class name="Test.BiotechProject01.Administration.ReportsManagement"/>
+      <class name="Test.BiotechProject01.Administration.AssetManagement"/>
+      <class name="Test.BiotechProject01.Administration.ProgramManagement"/>
+      <class name="Test.BiotechProject01.Administration.AccessManagement"/>
+      <class name="Test.BiotechProject01.Administration.AgreementManagement"/>
+      <class name="Test.BiotechProject01.Administration.BarcodeManagement"/>
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

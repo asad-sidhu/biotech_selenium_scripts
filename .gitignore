@@ -1,0 +1,9 @@
+/target/
+/Images/
+/test-output/
+/junitreports/
+/extent-test-reports/
+/extent-test-output/
+/.idea
+/.metadata
+/logs
